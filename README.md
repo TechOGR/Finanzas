@@ -54,8 +54,8 @@
 1. **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/tu-usuario/finanzas.git
-cd finanzas
+git clone https://github.com/TechOGR/Finanzas.git
+cd Finanzas
 ```
 
 2. **Instalar dependencias**
@@ -128,5 +128,10 @@ Si tienes preguntas o sugerencias, no dudes en contactarnos:
 ---
 
 <div align="center">
+<<<<<<< HEAD
 Desarrollado con ❤️ por Onel Crack
 </div>
+=======
+Desarrollado con ❤️ por [Tu Nombre]
+</div>
+>>>>>>> 818fa16cef1fe32dfa48b8f6d36ef047a206fdc9
