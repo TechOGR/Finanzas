@@ -128,6 +128,5 @@ Si tienes preguntas o sugerencias, no dudes en contactarnos:
 ---
 
 <div align="center">
-<<<<<<< HEAD
 Desarrollado con ❤️ por Onel Crack
 </div>
