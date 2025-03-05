@@ -113,16 +113,6 @@ finanzas/
 └── requirements.txt       # Dependencias del proyecto
 ```
 
-## 🤝 Contribución
-
-Las contribuciones son bienvenidas. Para contribuir:
-
-1. Haz un Fork del proyecto
-2. Crea una rama para tu funcionalidad (`git checkout -b feature/nueva-funcionalidad`)
-3. Realiza tus cambios y haz commit (`git commit -m 'Añadir nueva funcionalidad'`)
-4. Sube tus cambios (`git push origin feature/nueva-funcionalidad`)
-5. Abre un Pull Request
-
 ## 📄 Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
@@ -131,11 +121,12 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE par
 
 Si tienes preguntas o sugerencias, no dudes en contactarnos:
 
-- **Email**: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- **GitHub**: [tu-usuario](https://github.com/tu-usuario)
+- **Email**: [onelguilarte858@gmail.com](mailto:onelguilarte858@gmail.com)
+- **GitHub**: [TechOGR](https://github.com/TechOGR)
+- **Youtube**: [OnelCrack](https://www.youtube.com/@OnelCrack)
 
 ---
 
 <div align="center">
-Desarrollado con ❤️ por [Tu Nombre]
+Desarrollado con ❤️ por Onel Crack
 </div>
