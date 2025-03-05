@@ -131,7 +131,3 @@ Si tienes preguntas o sugerencias, no dudes en contactarnos:
 <<<<<<< HEAD
 Desarrollado con ❤️ por Onel Crack
 </div>
-=======
-Desarrollado con ❤️ por [Tu Nombre]
-</div>
->>>>>>> 818fa16cef1fe32dfa48b8f6d36ef047a206fdc9
