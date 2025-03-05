@@ -1,0 +1,6 @@
+PyQt5>=5.15.0
+SQLite3>=3.33.0
+matplotlib>=3.3.0
+pandas>=1.1.0
+QDarkStyle>=2.8.0
+pyqtgraph>=0.11.0
