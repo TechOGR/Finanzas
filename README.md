@@ -54,8 +54,8 @@
 1. **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/tu-usuario/finanzas.git
-cd finanzas
+git clone https://github.com/TechOGR/Finanzas.git
+cd Finanzas
 ```
 
 2. **Instalar dependencias**
